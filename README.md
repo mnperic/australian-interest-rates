@@ -7,9 +7,9 @@
  
  The three indices chosen in this analysis included:
  
- * <b>Cash Rate Target</b> (the interest rate on unsecured overnight loans between banks)
- * <b>Interbank Overnight Cash Rate</b> (the weighted average of the interest rate at which overnight unsecured funds are transacted in the domestic interbank markets)
- * <b>Six-month BAB/NCD</b> (six-monthly calculation of interest rates measured where the interbank market trades bank accepted bills (BABs) and negotiable certificates of deposit (NCDs)
+ * <b>Cash Rate Target</b> (the interest rate on unsecured overnight loans between banks).
+ * <b>Interbank Overnight Cash Rate</b> (the weighted average of the interest rate at which overnight unsecured funds are transacted in the domestic interbank markets).
+ * <b>Six-month BAB/NCD</b> (six-monthly calculation of interest rates measured where the interbank market trades bank accepted bills (BABs) and negotiable certificates of deposit (NCDs).
 
 ## Analysis
 
