@@ -49,14 +49,9 @@ Index |  Average | Highest | Lowest
 
 ## Considerations
 
-* 2008-12; GFC and recovery
-* 2020-; COVID-19 pandemic
+* 2008-12 (GFC and recovery)
+* 2020- (COVID-19 pandemic)
 
-## Notes
+## References
 
-Include the following data/graphs:
-
-* GDP
-* CPI
-* Unemployment
-* Oil prices
+Reserve Bank of Australia, 2021, 'Interest Rates and Yields - Monthly Market - Monthly, https://www.rba.gov.au/statistics/tables/#interest-rates
