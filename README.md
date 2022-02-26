@@ -54,4 +54,5 @@ Index |  Average | Highest | Lowest
 
 ## References
 
-Reserve Bank of Australia, 2021, 'Interest Rates and Yields - Monthly Market - Monthly, https://www.rba.gov.au/statistics/tables/#interest-rates
+Reserve Bank of Australia, 2021, 'Interest Rates and Yields - Monthly Market - Monthly
+https://www.rba.gov.au/statistics/tables/#interest-rates
