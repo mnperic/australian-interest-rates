@@ -1,4 +1,4 @@
-# Reserve Bank of Australia – Interest Rates, Aug 1990 - Dec2021
+# Reserve Bank of Australia – Interest Rates, Aug 1990 - Dec 2021
  An overview of historical interest rates in Australia since 1990.
  
  ## Overview
