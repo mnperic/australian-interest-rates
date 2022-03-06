@@ -1,4 +1,4 @@
-# Reserve Bank of Australia – Interest Rates, Aug 1990 - Dec2021
+# Reserve Bank of Australia – Interest Rates, Aug 1990 - Dec 2021
  An overview of historical interest rates in Australia since 1990.
  
  ## Overview
@@ -49,14 +49,9 @@ Index |  Average | Highest | Lowest
 
 ## Considerations
 
-* 2008-12; GFC and recovery
-* 2020-; COVID-19 pandemic
+* 2008-12 (GFC and recovery)
+* 2020- (COVID-19 pandemic)
 
-## Notes
+## References
 
-Include the following data/graphs:
-
-* GDP
-* CPI
-* Unemployment
-* Oil prices
+Reserve Bank of Australia, 2021, 'Interest Rates and Yields - Monthly Market - Monthly <br>https://www.rba.gov.au/statistics/tables/#interest-rates</br>
